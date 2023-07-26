@@ -1,0 +1,11 @@
+[
+    {
+      "condition": "age > 18",
+      "action": "ALLOW"
+    },
+    {
+      "condition": "role == 'admin'",
+      "action": "DENY"
+    }
+  ]
+  
